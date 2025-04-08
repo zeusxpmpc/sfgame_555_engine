@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "golem",
+    "faceid": 4,
+    "classid": 1,
+    "weaponid": -1,
+    "shieldid": 0,
+    "shieldblock": 0,
+    "attrstr": 0,
+    "attrint": 0,
+    "attrdex": 0,
+    "attrwit": 0,
+    "attrluck": 0,
+    "hp": 0,
+    "armor": 0
+  },
+  {
+    "id": 2,
+    "name": "firedemon",
+    "faceid": 7,
+    "classid": 2,
+    "weaponid": -7,
+    "shieldid": 0,
+    "shieldblock": 0,
+    "attrstr": 0,
+    "attrint": 0,
+    "attrdex": 0,
+    "attrwit": 0,
+    "attrluck": 0,
+    "hp": 0,
+    "armor": 0
+  },
+  {
+    "id": 3,
+    "name": "frozendemon",
+    "faceid": 8,
+    "classid": 2,
+    "weaponid": -2,
+    "shieldid": 0,
+    "shieldblock": 0,
+    "attrstr": 0,
+    "attrint": 0,
+    "attrdex": 0,
+    "attrwit": 0,
+    "attrluck": 0,
+    "hp": 0,
+    "armor": 0
+  }
+]
